@@ -56,4 +56,10 @@
   'UN/Geodata/BNDA_simplified/current',
   'WCMC/WDOECM',
   'WRI/SBTN/naturalLands/v1/2020',
+  'MalariaAtlasProject/LST_Day_5km_8-Daily',
+  'MalariaAtlasProject/LST_Day_5km_Monthly',
+  'MalariaAtlasProject/LST_Day_5km_Annual',
+  'MalariaAtlasProject/LST_Night_5km_8-Daily',
+  'MalariaAtlasProject/LST_Night_5km_Monthly',
+  'MalariaAtlasProject/LST_Night_5km_Annual',
 ]
